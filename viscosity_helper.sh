@@ -43,25 +43,13 @@ wipe_viscosity() {
 	VHELP_PLIST="/Library/LaunchDaemons/com.sparklabs.ViscosityHelper.plist"
 	if [ -f $VHELP_PLIST ]
 	then
-		launchctl unload $VHELP_PLIST
+		launchctl unload $VHELP_PLIST > /dev/null
 	fi
 	
 	# These files/directories need to be checked first if they exist!
 	remove_path "~/Library/PrivilegedHelperTools/com.sparklabs.ViscosityHelper" \
 	"~Library/LaunchDaemons/com.sparklabs.ViscosityHelper.plist" \
 	"~/Library/Application Support/Viscosity"
-}
-
-# Cleanup after the script terminates
-cleanup() {
-	hdiutil detach $MOUNT_POINT > /dev/null
-	if [[ $? -ne 0 ]]
-	then
-		echo "Encountered a problem while unmounting .dmg"
-		exit 1
-	fi
-
-	rm $DMG
 }
 
 # Ensures that all commands throughout the program have the proper admin privileges
@@ -71,21 +59,8 @@ then
 	exit 1
 fi
 
-# Prompts user if they want a fresh install of Viscosity or just install ontop
-# of the current configs
-if [ -d /Applications/Viscosity.app ]
-then
-	echo 'Viscosity was found on this system!'
-	printf "%s%s\n" "Do you want a fresh install of Viscosity? "\
-	"(This will delete all current connections/settings!)"
-	select yn in "Yes, delete current config" "No, keep current config"; do
-		case $yn in
-		[Yy]* ) wipe_viscosity; break;;
-		[Nn]* ) break;;
-		* ) echo "Please enter either one of the numbers above.";;
-		esac
-	done
-fi
+# User will run the script with the intention to have a fresh install
+wipe_viscosity
 
 # Grab viscosity from Sparklabs website
 if [[ ! -f 'Viscosity.dmg' ]]
@@ -100,6 +75,13 @@ if [[ $? -ne 0 ]]; then echo "Encountered a problem while mounting .dmg"; exit 1
 
 cp -rf $MOUNT_POINT/Viscosity.app /Applications
 
-cleanup
+hdiutil detach $MOUNT_POINT > /dev/null
+if [[ $? -ne 0 ]]
+then
+	echo "Encountered a problem while unmounting .dmg"
+	exit 1
+fi
+
+rm $DMG
 
 /Applications/Viscosity.app/Contents/MacOS/Viscosity &
