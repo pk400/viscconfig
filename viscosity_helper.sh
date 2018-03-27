@@ -10,7 +10,7 @@ BASE_URL='https://www.sparklabs.com'
 DL_PATH='/downloads/Viscosity.dmg'
 DMG='Viscosity.dmg'
 MOUNT_POINT='/Volumes/Viscosity'
-CON_CONFIG='config.conf'
+PKG='Viscosity Installer.pkg'
 
 # Kill all processes related to Viscosity ie. ViscosityHelper. This is so that
 # the files can easily be removed for a clean install
@@ -18,6 +18,7 @@ kill_p() {
 	LISTP=$(ps -axco command | sort | uniq)
 	for p in $@
 	do
+		echo "$LISTP" | grep -w $p
 		ISRUNNING=$(echo "$LISTP" | grep -w $p | wc -l)
 		if [[ $ISRUNNING -gt 0 ]]; then killall $p; echo "Killing $p ..."; fi
 	done
@@ -51,7 +52,8 @@ wipe_viscosity() {
 	# These files/directories need to be checked first if they exist!
 	remove_path "~/Library/PrivilegedHelperTools/com.sparklabs.ViscosityHelper" \
 	"~Library/LaunchDaemons/com.sparklabs.ViscosityHelper.plist" \
-	"~/Library/Application Support/Viscosity"
+	"~/Library/Application Support/Viscosity"\
+	"~/Library/Preferences/com.viscosityvpn.Viscosity.plist"
 }
 
 # Ensures that all commands throughout the program have the proper admin privileges
@@ -61,10 +63,9 @@ then
 	exit 1
 fi
 
-if [[ ! -f $CON_CONFIG ]]
+if [[ ! -f $PKG ]]
 then
-	echo "Config file not found. Please download the ovpn-config .zip file from "\
-	"login.mozilla.com and copy the config.conf file to the script's directory."
+	echo "Viscosity Installer.pkg not found."
 	exit 1
 fi
 
@@ -72,13 +73,15 @@ fi
 wipe_viscosity
 
 # Grab viscosity from Sparklabs website
-if [[ ! -f $DMG ]]
+if [ ! -f $DMG ]
 then
+	echo "Downloading Viscosity ..."
 	wget --no-check-certificate -q $BASE_URL$DL_PATH
 	if [[ $? -ne 0 ]]; then echo "Could not fetch .dmg file"; exit 1; fi
 fi
 
 # Mounts .dmg file
+echo "Installing Viscosity ..."
 hdiutil attach $DMG > /dev/null
 if [[ $? -ne 0 ]]; then echo "Encountered a problem while mounting .dmg"; exit 1; fi
 
@@ -88,9 +91,9 @@ cp -rf $MOUNT_POINT/Viscosity.app /Applications
 hdiutil detach $MOUNT_POINT > /dev/null
 if [[ $? -ne 0 ]]; then echo "Encountered a problem while unmounting .dmg"; exit 1; fi
 
-rm $DMG
+#rm $DMG
 
 echo "Clean install completed!"
-echo "Starting up Viscosity..."
 
-/Applications/Viscosity.app/Contents/MacOS/Viscosity &
+echo "Configuring Mozilla settings ..."
+installer -pkg "$PKG" -target /
