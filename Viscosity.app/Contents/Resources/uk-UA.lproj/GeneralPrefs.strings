@@ -1,0 +1,33 @@
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "139"; */
+"139.title" = "Перевіряти оновлення автоматично";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "140"; */
+"140.title" = "Загальні:";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "141"; */
+"141.title" = "Оновлення:";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "142"; */
+"142.title" = "Перевірити зараз";
+
+/* Class = "NSButtonCell"; title = "Start Viscosity at Login"; ObjectID = "143"; */
+"143.title" = "Запускати Viscosity при запуску системи";
+
+/* Class = "NSButtonCell"; title = "Disable Time Machine backups while connected"; ObjectID = "146"; */
+"146.title" = "Відключити Time Machine під час підключення";
+
+/* Class = "NSButtonCell"; title = "Reconnect active connections on wake"; ObjectID = "147"; */
+"147.title" = "Повторно під'єднати активні сполуки після прокидання";
+
+/* Class = "NSTextFieldCell"; title = "minutes of inactivity"; ObjectID = "152"; */
+"152.title" = "хвилин бездіяльності";
+
+/* Class = "NSButtonCell"; title = "Disconnect connections after"; ObjectID = "156"; */
+"156.title" = "Відключитися після";
+
+/* Class = "NSTextFieldCell"; title = "Beta versions are published more often, however they include experimental features and improvements that may require further testing."; ObjectID = "1PY-3L-g3u"; */
+"1PY-3L-g3u.title" = "Бета-версії публікуються частіше, проте вони включають в себе експериментальні функції й поліпшення, що можуть вимагати додаткового тестування.";
+
+/* Class = "NSButtonCell"; title = "Include beta versions"; ObjectID = "ob1-HG-g9u"; */
+"ob1-HG-g9u.title" = "Включити бета-версії";

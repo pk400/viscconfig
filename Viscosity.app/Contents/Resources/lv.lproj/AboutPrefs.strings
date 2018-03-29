@@ -1,0 +1,39 @@
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "125"; */
+"125.title" = "Reģistrēties";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "126"; */
+"126.title" = "Pirkt licenci";
+
+/* Class = "NSTextFieldCell"; title = "<<Do not localize>>"; ObjectID = "127"; */
+"127.title" = "<<Do not localize>>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "128"; */
+"128.title" = "Atcelt";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "129"; */
+"129.title" = "Reģistrēties";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "130"; */
+"130.title" = "E-pasts:";
+
+/* Class = "NSTextFieldCell"; title = "Serial Key:"; ObjectID = "131"; */
+"131.title" = "Licences atslēga:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "135"; */
+"135.title" = "Vārds:";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your name, email address, and license key below to register Viscosity."; ObjectID = "136"; */
+"136.title" = "Lai reģistrētu Viscosity, lūdzu, ievadiet jūsu vārdu, e-pasta adresi un licences atslēgu.";
+
+/* Class = "NSTextFieldCell"; title = "Viscosity"; ObjectID = "144"; */
+"144.title" = "Viscosity";
+
+/* Class = "NSTextFieldCell"; title = "Version %s (%s)"; ObjectID = "146"; */
+"146.title" = "Versija %s (%s)";
+
+/* Class = "NSWindow"; title = "Register Viscosity"; ObjectID = "71"; */
+"71.title" = "Reģistrēt Viscosity";
+
+/* Class = "NSButtonCell"; title = "Forgot License"; ObjectID = "dtS-GO-w3N"; */
+"dtS-GO-w3N.title" = "Forgot License";

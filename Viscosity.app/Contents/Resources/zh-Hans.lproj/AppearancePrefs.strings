@@ -1,0 +1,33 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "132"; */
+"132.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Menu:"; ObjectID = "164"; */
+"164.title" = "菜单栏：";
+
+/* Class = "NSTextFieldCell"; title = "Details Window:"; ObjectID = "165"; */
+"165.title" = "详细信息窗口:";
+
+/* Class = "NSButtonCell"; title = "Details window is always on top"; ObjectID = "166"; */
+"166.title" = "详细信息窗口置顶";
+
+/* Class = "NSTextFieldCell"; title = "Menu Icons:"; ObjectID = "170"; */
+"170.title" = "菜单栏图标：";
+
+/* Class = "NSMenuItem"; title = "Prefer IPv4"; ObjectID = "4ee-nP-hno"; */
+"4ee-nP-hno.title" = "Prefer IPv4";
+
+/* Class = "NSTextFieldCell"; title = "Traffic Display:"; ObjectID = "5R0-n8-ltr"; */
+"5R0-n8-ltr.title" = "Traffic Display:";
+
+/* Class = "NSMenuItem"; title = "Traffic Rate"; ObjectID = "Anc-0a-SNF"; */
+"Anc-0a-SNF.title" = "Traffic Rate";
+
+/* Class = "NSMenuItem"; title = "Prefer IPv6"; ObjectID = "KFJ-dX-gIF"; */
+"KFJ-dX-gIF.title" = "Prefer IPv6";
+
+/* Class = "NSMenuItem"; title = "Traffic Totals"; ObjectID = "OW8-RM-BZF"; */
+"OW8-RM-BZF.title" = "Traffic Totals";
+
+/* Class = "NSTextFieldCell"; title = "Address Display:"; ObjectID = "VBy-qE-RbH"; */
+"VBy-qE-RbH.title" = "Address Display:";

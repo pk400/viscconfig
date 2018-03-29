@@ -1,0 +1,93 @@
+
+/* Class = "NSWindow"; title = "Details"; ObjectID = "327"; */
+"327.title" = "Detaljer";
+
+/* Class = "NSTextFieldCell"; title = "Client IP"; ObjectID = "376"; */
+"376.title" = "Klient-IP";
+
+/* Class = "NSTextFieldCell"; title = "Server IP"; ObjectID = "378"; */
+"378.title" = "Server-IP";
+
+/* Class = "NSTextFieldCell"; title = "127.0.0.1"; ObjectID = "382"; */
+"382.title" = "127.0.0.1";
+
+/* Class = "NSTextFieldCell"; title = "127.0.0.1"; ObjectID = "384"; */
+"384.title" = "127.0.0.1";
+
+/* Class = "NSTextFieldCell"; title = "Connected Time"; ObjectID = "386"; */
+"386.title" = "Anslutningstid";
+
+/* Class = "NSTextFieldCell"; title = "Connected"; ObjectID = "389"; */
+"389.title" = "Ansluten";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "390"; */
+"390.title" = "Status";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Traffic Graph"; ObjectID = "442"; */
+"442.ibShadowedToolTip" = "Display Traffic Graph";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Traffic"; ObjectID = "444"; */
+"444.ibShadowedToolTip" = "Display Traffic";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Log"; ObjectID = "446"; */
+"446.ibShadowedToolTip" = "Display Log";
+
+/* Class = "NSTextFieldCell"; title = "DNS Server/s:"; ObjectID = "469"; */
+"469.title" = "TCP/UDP Ut:";
+
+/* Class = "NSTextFieldCell"; title = "Traffic In:"; ObjectID = "472"; */
+"472.title" = "TCP/UDP In:";
+
+/* Class = "NSTextFieldCell"; title = "0 Bytes"; ObjectID = "473"; */
+"473.title" = "0 Bytes";
+
+/* Class = "NSTextFieldCell"; title = "0 Bytes"; ObjectID = "474"; */
+"474.title" = "0 Bytes";
+
+/* Class = "NSTextFieldCell"; title = "Traffic Out:"; ObjectID = "475"; */
+"475.title" = "TUN/TAP In:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "477"; */
+"477.title" = "0 Bytes";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "514"; */
+"514.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Data In"; ObjectID = "521"; */
+"521.title" = "Data In";
+
+/* Class = "NSTextFieldCell"; title = "Data Out"; ObjectID = "523"; */
+"523.title" = "Data Ut";
+
+/* Class = "NSTextFieldCell"; title = "0 seconds"; ObjectID = "538"; */
+"538.title" = "0 sekunder";
+
+/* Class = "NSTextFieldCell"; title = "100KB"; ObjectID = "579"; */
+"579.title" = "100KB";
+
+/* Class = "NSTextFieldCell"; title = "0 KB"; ObjectID = "581"; */
+"581.title" = "0 KB";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "EUn-Bt-JTD"; */
+"EUn-Bt-JTD.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Clear Log"; ObjectID = "J3Q-kH-4Oy"; */
+"J3Q-kH-4Oy.title" = "Rensa Logg";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "L1E-Yi-rKf"; */
+"L1E-Yi-rKf.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "QvM-1l-7Ne"; */
+"QvM-1l-7Ne.title" = "Encryption:";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "WlI-18-ngV"; */
+"WlI-18-ngV.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aGj-VA-Oud"; */
+"aGj-VA-Oud.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Save Log..."; ObjectID = "y0D-v2-bk9"; */
+"y0D-v2-bk9.title" = "Save Log...";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "yej-J4-HB9"; */
+"yej-J4-HB9.title" = "N/A";

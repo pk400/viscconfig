@@ -1,0 +1,33 @@
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "139"; */
+"139.title" = "自动检查更新";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "140"; */
+"140.title" = "一般：";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "141"; */
+"141.title" = "更新：";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "142"; */
+"142.title" = "Check Now";
+
+/* Class = "NSButtonCell"; title = "Start Viscosity at Login"; ObjectID = "143"; */
+"143.title" = "用户登陆后程序自动运行";
+
+/* Class = "NSButtonCell"; title = "Disable Time Machine backups while connected"; ObjectID = "146"; */
+"146.title" = "连接时禁用 Time Machine 备份";
+
+/* Class = "NSButtonCell"; title = "Reconnect active connections on wake"; ObjectID = "147"; */
+"147.title" = "设备唤醒时重新连接";
+
+/* Class = "NSTextFieldCell"; title = "minutes of inactivity"; ObjectID = "152"; */
+"152.title" = "分钟未活跃";
+
+/* Class = "NSButtonCell"; title = "Disconnect connections after"; ObjectID = "156"; */
+"156.title" = "断开连接，当";
+
+/* Class = "NSTextFieldCell"; title = "Beta versions are published more often, however they include experimental features and improvements that may require further testing."; ObjectID = "1PY-3L-g3u"; */
+"1PY-3L-g3u.title" = "Beta versions are published more often, however they include experimental features and improvements that may require further testing.";
+
+/* Class = "NSButtonCell"; title = "Include beta versions"; ObjectID = "ob1-HG-g9u"; */
+"ob1-HG-g9u.title" = "Include beta versions";

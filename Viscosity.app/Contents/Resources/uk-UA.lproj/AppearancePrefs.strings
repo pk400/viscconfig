@@ -1,0 +1,33 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "132"; */
+"132.title" = "Інший Вид";
+
+/* Class = "NSTextFieldCell"; title = "Menu:"; ObjectID = "164"; */
+"164.title" = "Меню:";
+
+/* Class = "NSTextFieldCell"; title = "Details Window:"; ObjectID = "165"; */
+"165.title" = "Детальна інформація:";
+
+/* Class = "NSButtonCell"; title = "Details window is always on top"; ObjectID = "166"; */
+"166.title" = "Завжди показувати детальну інформацію поверх усіх вікон";
+
+/* Class = "NSTextFieldCell"; title = "Menu Icons:"; ObjectID = "170"; */
+"170.title" = "Іконки у меню:";
+
+/* Class = "NSMenuItem"; title = "Prefer IPv4"; ObjectID = "4ee-nP-hno"; */
+"4ee-nP-hno.title" = "Надавати перевагу IPv4";
+
+/* Class = "NSTextFieldCell"; title = "Traffic Display:"; ObjectID = "5R0-n8-ltr"; */
+"5R0-n8-ltr.title" = "Показувати трафік:";
+
+/* Class = "NSMenuItem"; title = "Traffic Rate"; ObjectID = "Anc-0a-SNF"; */
+"Anc-0a-SNF.title" = "Рейтинг трафіку";
+
+/* Class = "NSMenuItem"; title = "Prefer IPv6"; ObjectID = "KFJ-dX-gIF"; */
+"KFJ-dX-gIF.title" = "Надавати перевагу IPv6";
+
+/* Class = "NSMenuItem"; title = "Traffic Totals"; ObjectID = "OW8-RM-BZF"; */
+"OW8-RM-BZF.title" = "Усього трафіку";
+
+/* Class = "NSTextFieldCell"; title = "Address Display:"; ObjectID = "VBy-qE-RbH"; */
+"VBy-qE-RbH.title" = "Показувати адресу:";

@@ -1,0 +1,780 @@
+
+/* Class = "NSWindow"; title = "Add Route"; ObjectID = "1187"; */
+"1187.title" = "Aggiungi rotta";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "126"; */
+"126.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "127"; */
+"127.title" = "IPv4";
+
+/* Class = "NSMenuItem"; title = "UDP"; ObjectID = "128"; */
+"128.title" = "UDP";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "134"; */
+"134.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "tap"; ObjectID = "135"; */
+"135.title" = "tap";
+
+/* Class = "NSMenuItem"; title = "tun"; ObjectID = "136"; */
+"136.title" = "tun";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1447"; */
+"1447.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "New Connection"; ObjectID = "1449"; */
+"1449.title" = "Nuova connessione";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1687"; */
+"1687.title" = "Window";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "184"; */
+"184.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Systemwide HTTP Proxy"; ObjectID = "185"; */
+"185.title" = "Proxy HTTP di sistema";
+
+/* Class = "NSMenuItem"; title = "SOCKS Proxy"; ObjectID = "197"; */
+"197.title" = "Proxy SOCKS";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2093"; */
+"2093.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "2094"; */
+"2094.title" = "Nessuna";
+
+/* Class = "NSMenuItem"; title = "Username/Password (Automatic)"; ObjectID = "2095"; */
+"2095.title" = "Username/Password (Automatic)";
+
+/* Class = "NSMenuItem"; title = "Username/Password (NTLM)"; ObjectID = "2097"; */
+"2097.title" = "Utente/Password (NTLM)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2857"; */
+"2857.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "2858"; */
+"2858.title" = "1";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "2859"; */
+"2859.title" = "Default";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "2860"; */
+"2860.title" = "0";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2868"; */
+"2868.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "SSL/TLS Client (PKCS11)"; ObjectID = "2869"; */
+"2869.title" = "Client SSL/TLS (PKCS11)";
+
+/* Class = "NSMenuItem"; title = "SSL/TLS Client"; ObjectID = "2870"; */
+"2870.title" = "Client SSL/TLS";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2890"; */
+"2890.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "2uo-Ld-7Zv"; */
+"2uo-Ld-7Zv.title" = "Close";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3217"; */
+"3217.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "3218"; */
+"3218.title" = "0";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "3219"; */
+"3219.title" = "Default";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "3220"; */
+"3220.title" = "1";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3221"; */
+"3221.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3227"; */
+"3227.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Systemwide SOCKS Proxy"; ObjectID = "3908"; */
+"3908.title" = "Proxy SOCKS di sistema";
+
+/* Class = "NSMenuItem"; title = "HTTP Proxy"; ObjectID = "3909"; */
+"3909.title" = "Proxy HTTP";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "3915"; */
+"3915.title" = "Modifica";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "3918"; */
+"3918.title" = "Nome:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "3920"; */
+"3920.title" = "Indirizzo:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "3923"; */
+"3923.title" = "Porta:";
+
+/* Class = "NSTextFieldCell"; title = "Protocol:"; ObjectID = "3924"; */
+"3924.title" = "Protocollo:";
+
+/* Class = "NSTextFieldCell"; title = "Device:"; ObjectID = "3927"; */
+"3927.title" = "Interfaccia:";
+
+/* Class = "NSTextFieldCell"; title = "Remote Server:"; ObjectID = "3928"; */
+"3928.title" = "Server remoto:";
+
+/* Class = "NSTextFieldCell"; title = "Method:"; ObjectID = "3929"; */
+"3929.title" = "Metodo:";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "3930"; */
+"3930.title" = "Connessione:";
+
+/* Class = "NSButtonCell"; title = "Enable DHCP"; ObjectID = "3933"; */
+"3933.title" = "Attiva DHCP";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "3934"; */
+"3934.title" = "Autenticazione:";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "3935"; */
+"3935.title" = "Tipo:";
+
+/* Class = "NSTextFieldCell"; title = "Persist Options:"; ObjectID = "3937"; */
+"3937.title" = "Persistenza:";
+
+/* Class = "NSTextFieldCell"; title = "Ping:"; ObjectID = "3938"; */
+"3938.title" = "Ping:";
+
+/* Class = "NSTextFieldCell"; title = "Ping:"; ObjectID = "3940"; */
+"3940.title" = "Ping:";
+
+/* Class = "NSTextFieldCell"; title = "Ping Restart:"; ObjectID = "3941"; */
+"3941.title" = "Ping restart:";
+
+/* Class = "NSButtonCell"; title = "Persist Tun"; ObjectID = "3943"; */
+"3943.title" = "Tun";
+
+/* Class = "NSButtonCell"; title = "Persist Key"; ObjectID = "3944"; */
+"3944.title" = "Key";
+
+/* Class = "NSButtonCell"; title = "Persist Remote IP"; ObjectID = "3946"; */
+"3946.title" = "IP remoto";
+
+/* Class = "NSTextFieldCell"; title = "Compression:"; ObjectID = "3949"; */
+"3949.title" = "Compressione:";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "3951"; */
+"3951.title" = "Altro:";
+
+/* Class = "NSButtonCell"; title = "No Bind"; ObjectID = "3952"; */
+"3952.title" = "Nessun bind";
+
+/* Class = "NSButtonCell"; title = "Pull Options"; ObjectID = "3953"; */
+"3953.title" = "Pull";
+
+/* Class = "NSTextFieldCell"; title = "Proxy:"; ObjectID = "3954"; */
+"3954.title" = "Proxy:";
+
+/* Class = "NSButtonCell"; title = "Connect using proxy"; ObjectID = "3955"; */
+"3955.title" = "Connetti usando un proxy";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "3957"; */
+"3957.title" = "Indirizzo:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "3958"; */
+"3958.title" = "Porta:";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "3962"; */
+"3962.title" = "Tipo:";
+
+/* Class = "NSTextFieldCell"; title = "Auth:"; ObjectID = "3963"; */
+"3963.title" = "Autenticazione:";
+
+/* Class = "NSTextFieldCell"; title = "All Traffic:"; ObjectID = "3966"; */
+"3966.title" = "All Traffic:";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "3967"; */
+"3967.title" = "+";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "3968"; */
+"3968.title" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "3969"; */
+"3969.title" = "Altro:";
+
+/* Class = "NSTextFieldCell"; title = "Inactive:"; ObjectID = "3971"; */
+"3971.title" = "Inactive:";
+
+/* Class = "NSTextFieldCell"; title = "Shaper:"; ObjectID = "3972"; */
+"3972.title" = "Shaper:";
+
+/* Class = "NSTextFieldCell"; title = "Tun MTU:"; ObjectID = "3974"; */
+"3974.title" = "Tun MTU:";
+
+/* Class = "NSTextFieldCell"; title = "Fragment:"; ObjectID = "3977"; */
+"3977.title" = "Fragment:";
+
+/* Class = "NSTextFieldCell"; title = "Default Gateway:"; ObjectID = "3979"; */
+"3979.title" = "Gateway di default:";
+
+/* Class = "NSTextFieldCell"; title = "Extra OpenVPN configuration commands can be entered below. These are automatically appended to the configuration file."; ObjectID = "3981"; */
+"3981.title" = "Ulteriori comandi di configurazione di OpenVPN possono essere inseriti qui sotto (andranno automaticamente in coda al file di configurazione).";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "3985"; */
+"3985.title" = "Registra";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3986"; */
+"3986.title" = "Annulla";
+
+/* Class = "NSButtonCell"; title = "Connect when Viscosity opens"; ObjectID = "3987"; */
+"3987.title" = "Connetti all'apertura di Viscosity";
+
+/* Class = "NSTextFieldCell"; title = "Destination:"; ObjectID = "3989"; */
+"3989.title" = "Destination:";
+
+/* Class = "NSTextFieldCell"; title = "Mask/Bits:"; ObjectID = "3990"; */
+"3990.title" = "Mask/Bits:";
+
+/* Class = "NSTextFieldCell"; title = "Gateway:"; ObjectID = "3993"; */
+"3993.title" = "Gateway:";
+
+/* Class = "NSTextFieldCell"; title = "Metric:"; ObjectID = "3996"; */
+"3996.title" = "Metrica:";
+
+/* Class = "NSTextFieldCell"; title = "Leave blank for default"; ObjectID = "3999"; */
+"3999.title" = "Lasciare in bianco per il default.";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "4000"; */
+"4000.title" = "Aggiungi";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4001"; */
+"4001.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "Delete Connection"; ObjectID = "4003"; */
+"4003.title" = "Cancella connessione";
+
+/* Class = "NSTextFieldCell"; title = "Are you sure you want to delete the connection ''?"; ObjectID = "4004"; */
+"4004.title" = "Sei sicuro di voler cancellare la connessione ''?";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "4005"; */
+"4005.title" = "Cancella";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4006"; */
+"4006.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "SSL/TLS:"; ObjectID = "4007"; */
+"4007.title" = "SSL/TLS:";
+
+/* Class = "NSTextFieldCell"; title = "Key:"; ObjectID = "4008"; */
+"4008.title" = "Chiave:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4009"; */
+"4009.title" = "Seleziona…";
+
+/* Class = "NSPathCell"; placeholderString = "Select CA File..."; ObjectID = "4010"; */
+"4010.placeholderString" = "Seleziona file CA…";
+
+/* Class = "NSPathCell"; placeholderString = "Select Cert File..."; ObjectID = "4011"; */
+"4011.placeholderString" = "Seleziona file certificato…";
+
+/* Class = "NSTextFieldCell"; title = "Extra:"; ObjectID = "4012"; */
+"4012.title" = "Extra:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4013"; */
+"4013.title" = "Seleziona…";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4014"; */
+"4014.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "Cert:"; ObjectID = "4015"; */
+"4015.title" = "Certificato:";
+
+/* Class = "NSTextFieldCell"; title = "CA:"; ObjectID = "4016"; */
+"4016.title" = "CA:";
+
+/* Class = "NSPathCell"; placeholderString = "Select Key File..."; ObjectID = "4017"; */
+"4017.placeholderString" = "Seleziona file chiave…";
+
+/* Class = "NSTextFieldCell"; title = "PKCS12:"; ObjectID = "4018"; */
+"4018.title" = "PKCS12:";
+
+/* Class = "NSTextFieldCell"; title = "Extra:"; ObjectID = "4019"; */
+"4019.title" = "Extra:";
+
+/* Class = "NSPathCell"; placeholderString = "Select PKCS12 File..."; ObjectID = "4020"; */
+"4020.placeholderString" = "Seleziona file PKCS12…";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4021"; */
+"4021.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "SSL/TLS:"; ObjectID = "4022"; */
+"4022.title" = "SSL/TLS:";
+
+/* Class = "NSTextFieldCell"; title = "Static Key:"; ObjectID = "4023"; */
+"4023.title" = "Chiave statica:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4024"; */
+"4024.title" = "Seleziona…";
+
+/* Class = "NSPathCell"; placeholderString = "Select Secret File..."; ObjectID = "4025"; */
+"4025.placeholderString" = "Seleziona file secret…";
+
+/* Class = "NSTextFieldCell"; title = "Secret:"; ObjectID = "4026"; */
+"4026.title" = "Secret:";
+
+/* Class = "NSTextFieldCell"; title = "Direction:"; ObjectID = "4028"; */
+"4028.title" = "Direzione:";
+
+/* Class = "NSTextFieldCell"; title = "Direction:"; ObjectID = "4030"; */
+"4030.title" = "Direzione:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4031"; */
+"4031.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "Tls-Auth:"; ObjectID = "4032"; */
+"4032.title" = "TLS-Auth:";
+
+/* Class = "NSPathCell"; placeholderString = "Select Tls-Auth File..."; ObjectID = "4033"; */
+"4033.placeholderString" = "Seleziona file TLS-Auth…";
+
+/* Class = "NSTextFieldCell"; title = "PKCS11:"; ObjectID = "4048"; */
+"4048.title" = "PKCS11:";
+
+/* Class = "NSButtonCell"; title = "Add ..."; ObjectID = "4049"; */
+"4049.title" = "Aggiungi…";
+
+/* Class = "NSTextFieldCell"; title = "Providers:"; ObjectID = "4051"; */
+"4051.title" = "Provider:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "4060"; */
+"4060.title" = "Nome:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4072"; */
+"4072.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Use certificate name below"; ObjectID = "4074"; */
+"4074.title" = "Usa nome certificato sottostante";
+
+/* Class = "NSMenuItem"; title = "Prompt for certificate name"; ObjectID = "4075"; */
+"4075.title" = "Chiedi nome certificato";
+
+/* Class = "NSTextFieldCell"; title = "Retrieval:"; ObjectID = "4076"; */
+"4076.title" = "Recupero:";
+
+/* Class = "NSButtonCell"; title = "Detect"; ObjectID = "4078"; */
+"4078.title" = "Identifica";
+
+/* Class = "NSMenuItem"; title = "Static Key"; ObjectID = "4090"; */
+"4090.title" = "Chiave statica";
+
+/* Class = "NSButtonCell"; title = "Use Username/Password authentication"; ObjectID = "4093"; */
+"4093.title" = "Usa autenticazione nome/password";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4098"; */
+"4098.title" = "Box";
+
+/* Class = "NSWindow"; title = "Select PKCS11 Name"; ObjectID = "4110"; */
+"4110.title" = "Seleziona nome PKCS11";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4124"; */
+"4124.title" = "Annulla";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "4125"; */
+"4125.title" = "Seleziona";
+
+/* Class = "NSTextFieldCell"; title = "The following PKCS11 certificate names were found. Please select a name to use:"; ObjectID = "4129"; */
+"4129.title" = "Sono stati trovati i seguenti certificati PKCS11. Selezionare il nome da usare:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4132"; */
+"4132.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Enable IPv6"; ObjectID = "4143"; */
+"4143.title" = "Attiva IPv6";
+
+/* Class = "NSButtonCell"; title = "Require certificate was signed for server use"; ObjectID = "4166"; */
+"4166.title" = "Require certificate was signed for server use";
+
+/* Class = "NSTextFieldCell"; title = "Peer Certificate:"; ObjectID = "4167"; */
+"4167.title" = "Certificato peer:";
+
+/* Class = "NSMenuItem"; title = "SSL/TLS Client (PKCS12)"; ObjectID = "4168"; */
+"4168.title" = "Client SSL/TLS (PKCS12)";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4169"; */
+"4169.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "SSL/TLS:"; ObjectID = "4175"; */
+"4175.title" = "SSL/TLS:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4176"; */
+"4176.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "Extra:"; ObjectID = "4177"; */
+"4177.title" = "Extra:";
+
+/* Class = "NSTextFieldCell"; title = "CA:"; ObjectID = "4178"; */
+"4178.title" = "CA:";
+
+/* Class = "NSPathCell"; placeholderString = "Select CA File..."; ObjectID = "4179"; */
+"4179.placeholderString" = "Seleziona file CA…";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4196"; */
+"4196.title" = "Seleziona…";
+
+/* Class = "NSPathCell"; placeholderString = "Select Disconnected Script..."; ObjectID = "4197"; */
+"4197.placeholderString" = "Seleziona script di disconnessione…";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4198"; */
+"4198.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "Disconnected Script:"; ObjectID = "4199"; */
+"4199.title" = "Script di disconnessione:";
+
+/* Class = "NSTextFieldCell"; title = "Connected Script:"; ObjectID = "4200"; */
+"4200.title" = "Script di connessione:";
+
+/* Class = "NSPathCell"; placeholderString = "Select Connected Script..."; ObjectID = "4201"; */
+"4201.placeholderString" = "Seleziona script di connessione…";
+
+/* Class = "NSTextFieldCell"; title = "Custom scripts to be automatically run when a connection connects or disconnects can be selected below. These must be AppleScript scripts."; ObjectID = "4205"; */
+"4205.title" = "Selezionare sotto gli script personalizzati da eseguire automaticamente alla connessione o disconnessione. Questi script devono AppleScript.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4218"; */
+"4218.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Duplicate Connection"; ObjectID = "4220"; */
+"4220.title" = "Duplica connessione";
+
+/* Class = "NSMenuItem"; title = "Export Connection"; ObjectID = "4221"; */
+"4221.title" = "Esporta connessione";
+
+/* Class = "NSMenuItem"; title = "Export Zipped Connection"; ObjectID = "4225"; */
+"4225.title" = "Esporta connessione compressa";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "4235"; */
+"4235.title" = "Nuova cartella";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "4241"; */
+"4241.headerCell.title" = "Stato";
+
+/* Class = "NSTableColumn"; headerCell.title = "Connection Name"; ObjectID = "4242"; */
+"4242.headerCell.title" = "Nome connessione";
+
+/* Class = "NSTableColumn"; headerCell.title = "StatusImage"; ObjectID = "4243"; */
+"4243.headerCell.title" = "StatusImage";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4245"; */
+"4245.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4246"; */
+"4246.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4247"; */
+"4247.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Import Connection From Server"; ObjectID = "4260"; */
+"4260.title" = "Importa connessione da server";
+
+/* Class = "NSTextFieldCell"; title = "If you are connecting to an OpenVPN Access Server, please enter the server's address, your username, and your password below to automatically import your connection information."; ObjectID = "4264"; */
+"4264.title" = "Se ti stai connettendo ad un server OpenVPN Access, inseriscine l'indirizzo e il tuo nome utente e password per importare automaticamente le informazioni di connessione.";
+
+/* Class = "NSTextFieldCell"; title = "Remote Server:"; ObjectID = "4265"; */
+"4265.title" = "Server remoto:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "https://serveraddress.com"; ObjectID = "4268"; */
+"4268.placeholderString" = "https://serveraddress.com";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "4269"; */
+"4269.title" = "Indirizzo:";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "4273"; */
+"4273.title" = "Utente:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "4277"; */
+"4277.title" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "4279"; */
+"4279.title" = "Autenticazione:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4282"; */
+"4282.title" = "Annulla";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "4283"; */
+"4283.title" = "Importa";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4303"; */
+"4303.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "LZ4"; ObjectID = "4304"; */
+"4304.title" = "LZ4";
+
+/* Class = "NSMenuItem"; title = "LZO"; ObjectID = "4305"; */
+"4305.title" = "LZO";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "4306"; */
+"4306.title" = "Automatic";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "4309"; */
+"4309.title" = "Off";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "4314"; */
+"4314.title" = "Seleziona…";
+
+/* Class = "NSTextFieldCell"; title = "Before Connect Script:"; ObjectID = "4315"; */
+"4315.title" = "Script ante-connessione:";
+
+/* Class = "NSPathCell"; placeholderString = "Select Before Connect Script..."; ObjectID = "4316"; */
+"4316.placeholderString" = "Seleziona script ante-connessione…";
+
+/* Class = "NSMenuItem"; title = "TCP v6"; ObjectID = "4326"; */
+"4326.title" = "TCP v6";
+
+/* Class = "NSMenuItem"; title = "UDP v6"; ObjectID = "4327"; */
+"4327.title" = "UDP v6";
+
+/* Class = "NSMenuItem"; title = "TCP"; ObjectID = "4328"; */
+"4328.title" = "TCP";
+
+/* Class = "NSMenuItem"; title = "IPv6"; ObjectID = "4329"; */
+"4329.title" = "IPv6";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4332"; */
+"4332.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "IPv4"; ObjectID = "4333"; */
+"4333.title" = "IPv4";
+
+/* Class = "NSMenuItem"; title = "IPv6"; ObjectID = "4334"; */
+"4334.title" = "IPv6";
+
+/* Class = "NSTextFieldCell"; title = "IP Version:"; ObjectID = "4337"; */
+"4337.title" = "IP Version:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4346"; */
+"4346.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "4347"; */
+"4347.title" = "Custom";
+
+/* Class = "NSMenuItem"; title = "Local Network Gateway"; ObjectID = "4348"; */
+"4348.title" = "Local Network Gateway";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "4349"; */
+"4349.title" = "Default";
+
+/* Class = "NSMenuItem"; title = "VPN Gateway"; ObjectID = "4352"; */
+"4352.title" = "VPN Gateway";
+
+/* Class = "NSTableColumn"; headerCell.title = "IP"; ObjectID = "4353"; */
+"4353.headerCell.title" = "IP";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4354"; */
+"4354.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Ignore DNS settings sent by VPN server"; ObjectID = "5086"; */
+"5086.title" = "Ignore DNS settings sent by VPN server";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5088"; */
+"5088.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Disable"; ObjectID = "5089"; */
+"5089.title" = "Disable";
+
+/* Class = "NSMenuItem"; title = "Split DNS (Use VPN DNS for VPN domains only)"; ObjectID = "5090"; */
+"5090.title" = "Split DNS (Use VPN DNS for VPN domains only)";
+
+/* Class = "NSMenuItem"; title = "Full DNS (Use VPN DNS for all traffic)"; ObjectID = "5091"; */
+"5091.title" = "Full DNS (Use VPN DNS for all traffic)";
+
+/* Class = "NSMenuItem"; title = "Automatic (Default)"; ObjectID = "5092"; */
+"5092.title" = "Automatic (Default)";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "5093"; */
+"5093.title" = "Mode:";
+
+/* Class = "NSTextFieldCell"; title = "DNS Settings:"; ObjectID = "5094"; */
+"5094.title" = "DNS Settings:";
+
+/* Class = "NSTextFieldCell"; title = "Domains:"; ObjectID = "5096"; */
+"5096.title" = "Domains:";
+
+/* Class = "NSTextFieldCell"; title = "Servers:"; ObjectID = "5098"; */
+"5098.title" = "Servers:";
+
+/* Class = "NSMenuItem"; title = "Send all IPv4 traffic over VPN connection"; ObjectID = "5fk-nR-IkP"; */
+"5fk-nR-IkP.title" = "Send all IPv4 traffic over VPN connection";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6q5-4f-e6o"; */
+"6q5-4f-e6o.title" = "Cancel";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "72"; */
+"72.title" = "Window";
+
+/* Class = "NSTableColumn"; headerCell.title = "Route"; ObjectID = "730"; */
+"730.headerCell.title" = "Rotta";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mask/Bits"; ObjectID = "731"; */
+"731.headerCell.title" = "Mask/Bits";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "732"; */
+"732.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "733"; */
+"733.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Gateway"; ObjectID = "734"; */
+"734.headerCell.title" = "Gateway";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "735"; */
+"735.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Metric"; ObjectID = "736"; */
+"736.headerCell.title" = "Metrica";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "737"; */
+"737.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "79"; */
+"79.label" = "Generali";
+
+/* Class = "NSTextFieldCell"; title = "Tls-Crypt:"; ObjectID = "7ne-nk-uhC"; */
+"7ne-nk-uhC.title" = "Tls-Crypt:";
+
+/* Class = "NSTabViewItem"; label = "Authentication"; ObjectID = "80"; */
+"80.label" = "Autenticazione";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "87"; */
+"87.label" = "Opzioni";
+
+/* Class = "NSTabViewItem"; label = "Transport"; ObjectID = "89"; */
+"89.label" = "Proxy";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "8IZ-UF-jam"; */
+"8IZ-UF-jam.label" = "General";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "8jt-jJ-ah7"; */
+"8jt-jJ-ah7.title" = "None";
+
+/* Class = "NSTabViewItem"; label = "Networking"; ObjectID = "91"; */
+"91.label" = "Rete";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "93"; */
+"93.label" = "Avanzate";
+
+/* Class = "NSMenuItem"; title = "From Server..."; ObjectID = "9pL-ZB-mJS"; */
+"9pL-ZB-mJS.title" = "From Server...";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Abf-pf-CED"; */
+"Abf-pf-CED.title" = "Window";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Ddr-yq-hEO"; */
+"Ddr-yq-hEO.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "From File..."; ObjectID = "F4v-CW-raA"; */
+"F4v-CW-raA.title" = "From File...";
+
+/* Class = "NSMenuItem"; title = "Automatic (Set by server)"; ObjectID = "Iqp-78-Dej"; */
+"Iqp-78-Dej.title" = "Automatic (Set by server)";
+
+/* Class = "NSTextFieldCell"; title = "Key:"; ObjectID = "Jdh-Ds-W9f"; */
+"Jdh-Ds-W9f.title" = "Key:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "K0P-WQ-UHz"; */
+"K0P-WQ-UHz.title" = "Select ...";
+
+/* Class = "NSButtonCell"; title = "Share saved credentials for connections in this folder"; ObjectID = "Lbf-3j-Ubf"; */
+"Lbf-3j-Ubf.title" = "Share saved credentials for connections in this folder";
+
+/* Class = "NSMenuItem"; title = "UDP v4"; ObjectID = "LvA-IT-Tch"; */
+"LvA-IT-Tch.title" = "UDP v4";
+
+/* Class = "NSTextFieldCell"; title = "Custom scripts to be automatically run when a connection in this folder changes state can be selected below. These must be AppleScript scripts."; ObjectID = "NYJ-yJ-f91"; */
+"NYJ-yJ-f91.title" = "Custom scripts to be automatically run when a connection in this folder changes state can be selected below. These must be AppleScript scripts.";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "PKa-8V-h0K"; */
+"PKa-8V-h0K.title" = "Select ...";
+
+/* Class = "NSPathCell"; placeholderString = "Select Connected Script..."; ObjectID = "QEh-ap-rvo"; */
+"QEh-ap-rvo.placeholderString" = "Select Connected Script...";
+
+/* Class = "NSButtonCell"; title = "Automatically reconnect connections in this folder if disconnected"; ObjectID = "R5o-z4-A3Z"; */
+"R5o-z4-A3Z.title" = "Automatically reconnect connections in this folder if disconnected";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "SO0-sm-yON"; */
+"SO0-sm-yON.title" = "Select ...";
+
+/* Class = "NSPathCell"; placeholderString = "Select Before Connect Script..."; ObjectID = "TYU-DJ-Kjh"; */
+"TYU-DJ-Kjh.placeholderString" = "Select Before Connect Script...";
+
+/* Class = "NSMenuItem"; title = "Username/Password (Basic)"; ObjectID = "XyQ-4T-wkl"; */
+"XyQ-4T-wkl.title" = "Username/Password (Basic)";
+
+/* Class = "NSPathCell"; placeholderString = "Select Disconnected Script..."; ObjectID = "ZtB-Ne-6fd"; */
+"ZtB-Ne-6fd.placeholderString" = "Select Disconnected Script...";
+
+/* Class = "NSMenuItem"; title = "TCP v4"; ObjectID = "cmN-j6-D1l"; */
+"cmN-j6-D1l.title" = "TCP v4";
+
+/* Class = "NSTextFieldCell"; title = "Method:"; ObjectID = "ebi-BH-LtQ"; */
+"ebi-BH-LtQ.title" = "Method:";
+
+/* Class = "NSMenuItem"; title = "Send all traffic over VPN connection"; ObjectID = "ggA-JE-O6u"; */
+"ggA-JE-O6u.title" = "Send all traffic over VPN connection";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gnf-gT-BYG"; */
+"gnf-gT-BYG.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "ScrambleSuit"; ObjectID = "hGq-zw-I0G"; */
+"hGq-zw-I0G.title" = "ScrambleSuit";
+
+/* Class = "NSTextFieldCell"; title = "Before Connect Script:"; ObjectID = "hKR-Ou-kLD"; */
+"hKR-Ou-kLD.title" = "Before Connect Script:";
+
+/* Class = "NSMenuItem"; title = "IPv4"; ObjectID = "har-qH-Kmm"; */
+"har-qH-Kmm.title" = "IPv4";
+
+/* Class = "NSTextFieldCell"; title = "Routing:"; ObjectID = "i5R-L5-Dqb"; */
+"i5R-L5-Dqb.title" = "Routing:";
+
+/* Class = "NSTextFieldCell"; title = "Obfuscation:"; ObjectID = "jGc-hU-4xF"; */
+"jGc-hU-4xF.title" = "Obfuscation:";
+
+/* Class = "NSButtonCell"; title = "Select ..."; ObjectID = "jnW-yl-ztV"; */
+"jnW-yl-ztV.title" = "Select ...";
+
+/* Class = "NSPathCell"; placeholderString = "Select Tls-Crypt File..."; ObjectID = "lDz-dL-DRa"; */
+"lDz-dL-DRa.placeholderString" = "Select Tls-Crypt File...";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "lcg-AT-u6d"; */
+"lcg-AT-u6d.title" = "Name:";
+
+/* Class = "NSMenuItem"; title = "Threebfuscator (obfs3)"; ObjectID = "m37-hg-jb5"; */
+"m37-hg-jb5.title" = "Threebfuscator (obfs3)";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "n3z-UG-eY0"; */
+"n3z-UG-eY0.label" = "Advanced";
+
+/* Class = "NSButtonCell"; title = "Automatically reconnect if disconnected"; ObjectID = "rct-PT-pPu"; */
+"rct-PT-pPu.title" = "Automatically reconnect if disconnected";
+
+/* Class = "NSMenuItem"; title = "Import Connection"; ObjectID = "suj-aD-cIL"; */
+"suj-aD-cIL.title" = "Import Connection";
+
+/* Class = "NSButtonCell"; title = "Persist Local IP"; ObjectID = "tgu-aW-FOO"; */
+"tgu-aW-FOO.title" = "Persist Local IP";
+
+/* Class = "NSMenuItem"; title = "Send all IPv6 traffic over VPN connection"; ObjectID = "tlA-eF-WLL"; */
+"tlA-eF-WLL.title" = "Send all IPv6 traffic over VPN connection";
+
+/* Class = "NSTextFieldCell"; title = "Connected Script:"; ObjectID = "wIV-Vv-sS4"; */
+"wIV-Vv-sS4.title" = "Connected Script:";
+
+/* Class = "NSMenu"; title = "Import Connection"; ObjectID = "wdl-He-aP8"; */
+"wdl-He-aP8.title" = "Import Connection";
+
+/* Class = "NSMenuItem"; title = "Twobfuscator (obfs2)"; ObjectID = "wsE-yW-Jm2"; */
+"wsE-yW-Jm2.title" = "Twobfuscator (obfs2)";
+
+/* Class = "NSTextFieldCell"; title = "Disconnected Script:"; ObjectID = "zNb-AE-xFA"; */
+"zNb-AE-xFA.title" = "Disconnected Script:";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "zkW-wm-2E6"; */
+"zkW-wm-2E6.title" = "Save";

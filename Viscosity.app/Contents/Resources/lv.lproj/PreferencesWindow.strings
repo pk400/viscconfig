@@ -1,0 +1,36 @@
+
+/* Class = "NSToolbarItem"; label = "Connections"; ObjectID = "275"; */
+"275.label" = "Savienojumi";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connections"; ObjectID = "275"; */
+"275.paletteLabel" = "Savienojumi";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "276"; */
+"276.label" = "Vispārīgi";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "276"; */
+"276.paletteLabel" = "Vispārīgi";
+
+/* Class = "NSToolbarItem"; label = "About"; ObjectID = "278"; */
+"278.label" = "Par";
+
+/* Class = "NSToolbarItem"; paletteLabel = "About"; ObjectID = "278"; */
+"278.paletteLabel" = "Par";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "337"; */
+"337.title" = "Kaste";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "343"; */
+"343.label" = "Zem pārsega";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "343"; */
+"343.paletteLabel" = "Zem pārsega";
+
+/* Class = "NSToolbarItem"; label = "Appearance"; ObjectID = "344"; */
+"344.label" = "Izskats";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Appearance"; ObjectID = "344"; */
+"344.paletteLabel" = "Izskats";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "7"; */
+"7.title" = "Iestatījumi";

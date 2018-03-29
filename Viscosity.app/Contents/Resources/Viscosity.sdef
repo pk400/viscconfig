@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="Viscosity Terminology">
+	<suite name="Viscosity Suite" code="visc" description="Viscosity application scripting support.">
+		
+		<cocoa name="NSCoreSuite"/> 
+		<command name="count" code="corecnte" description="Return the number of elements of a particular class within an object."> 
+			<cocoa class="NSCountCommand"/> 
+			<direct-parameter description="the object whose elements are to be counted" type="specifier"/> 
+			<parameter name="each" code="kocl" description="The class of objects to be counted." type="type" optional="yes"> 
+				<cocoa key="ObjectClass"/> 
+			</parameter> 
+			<result description="the number of elements" type="integer"/> 
+		</command> 
+		
+		<class name="application" code="capp" description="">
+			<cocoa class="NSApplication"/>
+			<element type="connection" access="r">
+				<cocoa key="connectionList"/>
+			</element>
+		</class>
+		
+		<class name="connection" code="conn" description="A connection.">
+			<cocoa class="Viscosity.AppleScriptConnection"/>
+			<property name="name" code="name" type="text" access="r" description="The name of the connection.">
+				<cocoa key="name"/>
+			</property>
+			<property name="state" code="stat" type="text" access="r" description="The state of the connection.">
+				<cocoa key="state"/>
+			</property>
+			<property name="timeConnected" code="time" type="text" access="r" description="The time connected as a string.">
+				<cocoa key="timeConnected"/>
+			</property>
+			<property name="IPv4Address" code="cip4" type="text" access="r" description="The client's IPv4 address.">
+				<cocoa key="IPv4Address"/>
+			</property>
+			<property name="IPv6Address" code="cip6" type="text" access="r" description="The client's IPv6 address.">
+				<cocoa key="IPv6Address"/>
+			</property>
+			<property name="serverIPv4Address" code="sip4" type="text" access="r" description="The server's internal IPv4 address.">
+				<cocoa key="serverIPv4Address"/>
+			</property>
+			<property name="serverIPv6Address" code="sip6" type="text" access="r" description="The server's internal IPv6 address.">
+				<cocoa key="serverIPv6Address"/>
+			</property>
+			<property name="serverAddress" code="sadr" type="text" access="r" description="The server's external address.">
+				<cocoa key="serverAddress"/>
+			</property>
+			<responds-to name="connect">
+				<cocoa method="connectWithSender:"/>
+			</responds-to>
+			<responds-to name="disconnect">
+				<cocoa method="disconnectWithSender:"/>
+			</responds-to>
+			
+		</class>
+		
+		<command name="connect" code="viscconn" description="Connect a VPN connection.">
+			<cocoa class="Viscosity.ConnectCommand"/>
+			<direct-parameter description="the VPN connection to connect" type="text"/>
+		</command>
+		<command name="disconnect" code="viscdisc" description="Disconnect a VPN connection.">
+			<cocoa class="Viscosity.DisconnectCommand"/>
+			<direct-parameter description="the VPN connection to disconnect" type="text"/>
+		</command>
+		<command name="connectall" code="visccona" description="Connect all unconnected VPN connections.">
+			<cocoa class="Viscosity.ConnectAllCommand"/>
+		</command>
+		<command name="disconnectall" code="visccond" description="Disconnect all connected VPN connections.">
+			<cocoa class="Viscosity.DisconnectAllCommand"/>
+		</command>
+	</suite>
+</dictionary>

@@ -1,0 +1,36 @@
+
+/* Class = "NSToolbarItem"; label = "Connections"; ObjectID = "275"; */
+"275.label" = "Anslutningar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connections"; ObjectID = "275"; */
+"275.paletteLabel" = "Anslutningar";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "276"; */
+"276.label" = "Generellt";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "276"; */
+"276.paletteLabel" = "Generellt";
+
+/* Class = "NSToolbarItem"; label = "About"; ObjectID = "278"; */
+"278.label" = "Om";
+
+/* Class = "NSToolbarItem"; paletteLabel = "About"; ObjectID = "278"; */
+"278.paletteLabel" = "Om";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "337"; */
+"337.title" = "Box";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "343"; */
+"343.label" = "Avancerat";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "343"; */
+"343.paletteLabel" = "Avancerat";
+
+/* Class = "NSToolbarItem"; label = "Appearance"; ObjectID = "344"; */
+"344.label" = "Visning";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Appearance"; ObjectID = "344"; */
+"344.paletteLabel" = "Visning";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "7"; */
+"7.title" = "Inställningar";

@@ -1,0 +1,36 @@
+
+/* Class = "NSToolbarItem"; label = "Connections"; ObjectID = "275"; */
+"275.label" = "Connections";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connections"; ObjectID = "275"; */
+"275.paletteLabel" = "Connections";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "276"; */
+"276.label" = "General";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "276"; */
+"276.paletteLabel" = "General";
+
+/* Class = "NSToolbarItem"; label = "About"; ObjectID = "278"; */
+"278.label" = "About";
+
+/* Class = "NSToolbarItem"; paletteLabel = "About"; ObjectID = "278"; */
+"278.paletteLabel" = "About";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "337"; */
+"337.title" = "Box";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "343"; */
+"343.label" = "Advanced";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "343"; */
+"343.paletteLabel" = "Advanced";
+
+/* Class = "NSToolbarItem"; label = "Appearance"; ObjectID = "344"; */
+"344.label" = "Appearance";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Appearance"; ObjectID = "344"; */
+"344.paletteLabel" = "Appearance";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "7"; */
+"7.title" = "Preferencje";

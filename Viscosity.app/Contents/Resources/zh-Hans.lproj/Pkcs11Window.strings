@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "Please select a PKCS11 certificate name to use for authentication from the detected names (if any), or manually enter one below."; ObjectID = "341"; */
+"341.title" = "Please select a PKCS11 certificate name to use for authentication from the detected names (if any), or manually enter one below.";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name:"; ObjectID = "343"; */
+"343.title" = "Certificate Name:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "351"; */
+"351.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "355"; */
+"355.title" = "Cancel";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "386"; */
+"386.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Detected Names:"; ObjectID = "388"; */
+"388.title" = "Detected Names:";
+
+/* Class = "NSWindow"; title = "Viscosity"; ObjectID = "7"; */
+"7.title" = "Viscosity";

@@ -1,0 +1,45 @@
+
+/* Class = "NSTextFieldCell"; title = "OpenVPN:"; ObjectID = "133"; */
+"133.title" = "OpenVPN:";
+
+/* Class = "NSButtonCell"; title = "Reset network interfaces on disconnect"; ObjectID = "136"; */
+"136.title" = "Herstart de netwerkverbindingen bij afsluiten";
+
+/* Class = "NSTextFieldCell"; title = "Network Settings:"; ObjectID = "163"; */
+"163.title" = "Netwerk Instellingen:";
+
+/* Class = "NSButtonCell"; title = "Automatically disable DHCP when not needed"; ObjectID = "184"; */
+"184.title" = "Schakel automatisch DHCP uit wanneer niet nodig";
+
+/* Class = "NSTextFieldCell"; title = "OpenVPN Version:"; ObjectID = "188"; */
+"188.title" = "OpenVPN Versie:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "199"; */
+"199.title" = "Andere Schermen";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "200"; */
+"200.title" = "Automatisch";
+
+/* Class = "NSMenuItem"; title = "2.3"; ObjectID = "201"; */
+"201.title" = "2.3";
+
+/* Class = "NSButtonCell"; title = "Allow unsafe OpenVPN commands to be used"; ObjectID = "209"; */
+"209.title" = "Sta onveilige OpenVPN commando's toe";
+
+/* Class = "NSMenuItem"; title = "Tunnelblick"; ObjectID = "6S1-5Y-Jf6"; */
+"6S1-5Y-Jf6.title" = "Tunnelblick";
+
+/* Class = "NSTextFieldCell"; title = "Import From:"; ObjectID = "NPp-HA-Xz8"; */
+"NPp-HA-Xz8.title" = "Import From:";
+
+/* Class = "NSTextFieldCell"; title = "Import:"; ObjectID = "O8c-ML-soy"; */
+"O8c-ML-soy.title" = "Import:";
+
+/* Class = "NSMenuItem"; title = "2.4"; ObjectID = "c9W-qd-GX4"; */
+"c9W-qd-GX4.title" = "2.4";
+
+/* Class = "NSMenuItem"; title = "Select Application..."; ObjectID = "dpN-GU-xzX"; */
+"dpN-GU-xzX.title" = "Select Application...";
+
+/* Class = "NSButtonCell"; title = "Block IPv6 traffic while connected to IPv4-only VPN connections"; ObjectID = "xTu-RG-R1i"; */
+"xTu-RG-R1i.title" = "Block IPv6 traffic while connected to IPv4-only VPN connections";

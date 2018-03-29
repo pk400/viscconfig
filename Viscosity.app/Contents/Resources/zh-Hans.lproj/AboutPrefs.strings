@@ -1,0 +1,39 @@
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "125"; */
+"125.title" = "注册";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "126"; */
+"126.title" = "购买许可";
+
+/* Class = "NSTextFieldCell"; title = "<<Do not localize>>"; ObjectID = "127"; */
+"127.title" = "<<Do not localize>>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "128"; */
+"128.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "129"; */
+"129.title" = "注册";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "130"; */
+"130.title" = "Email：";
+
+/* Class = "NSTextFieldCell"; title = "Serial Key:"; ObjectID = "131"; */
+"131.title" = "序列号：";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "135"; */
+"135.title" = "姓名：";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your name, email address, and license key below to register Viscosity."; ObjectID = "136"; */
+"136.title" = "请在下方输入您的姓名，Email 地址和序列号以便注册 Viscosity。";
+
+/* Class = "NSTextFieldCell"; title = "Viscosity"; ObjectID = "144"; */
+"144.title" = "Viscosity";
+
+/* Class = "NSTextFieldCell"; title = "Version %s (%s)"; ObjectID = "146"; */
+"146.title" = "Version %s (%s)";
+
+/* Class = "NSWindow"; title = "Register Viscosity"; ObjectID = "71"; */
+"71.title" = "注册 Viscosity";
+
+/* Class = "NSButtonCell"; title = "Forgot License"; ObjectID = "dtS-GO-w3N"; */
+"dtS-GO-w3N.title" = "Forgot License";

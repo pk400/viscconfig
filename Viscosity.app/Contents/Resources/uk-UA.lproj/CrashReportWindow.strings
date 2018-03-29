@@ -1,0 +1,42 @@
+
+/* Class = "NSButtonCell"; title = "Send Report"; ObjectID = "351"; */
+"351.title" = "Відправити Звіт";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "355"; */
+"355.title" = "Скасувати";
+
+/* Class = "NSButtonCell"; title = "View Report"; ObjectID = "382"; */
+"382.title" = "Переглянути Звіт";
+
+/* Class = "NSTextFieldCell"; title = "Information contained in the crash report is anonymous and contains no personal information. The report can be viewed below."; ObjectID = "385"; */
+"385.title" = "Інформація, що міститься у доповіді краху програми є анонімною і не містить ніякої особистої інформації. Звіт можна подивитися нижче.";
+
+/* Class = "NSTextFieldCell"; title = "Viscosity has quit unexpectedly."; ObjectID = "387"; */
+"387.title" = "Viscosity has quit unexpectedly.";
+
+/* Class = "NSTextFieldCell"; title = "Viscosity has detected it encountered a fatal error last time it was run and had to close. A report has been generated that you can send to the Viscosity developers to help identify and resolve the problem."; ObjectID = "389"; */
+"389.title" = "Viscosity виявила, що сталася невиправна помилка й програма буде закрита. Звіт був створений, ви можете відправити розробникам Viscosity, щоб допомогти ідентифікувати і вирішити проблему.";
+
+/* Class = "NSTextFieldCell"; title = "Please help us fix the problem by describing what happened before the crash."; ObjectID = "391"; */
+"391.title" = "Будь ласка, допоможіть нам вирішити проблему описом того, що сталося до аварії.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional comments"; ObjectID = "393"; */
+"393.placeholderString" = "Додаткові коментарі";
+
+/* Class = "NSTextFieldCell"; title = "Providing your email address will allow us to contact you in case we need more details. This is completely optional."; ObjectID = "395"; */
+"395.title" = "Надання вашої електронної адреси дозволить нам зв'язатися з вами у разі, коли буде потрібно більше деталей. Це не є обов'язковим.";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "397"; */
+"397.title" = "Email:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "399"; */
+"399.placeholderString" = "Optional";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "400"; */
+"400.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "403"; */
+"403.title" = "Скасувати";
+
+/* Class = "NSWindow"; title = "Viscosity"; ObjectID = "7"; */
+"7.title" = "Viscosity";

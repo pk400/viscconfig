@@ -1,0 +1,93 @@
+
+/* Class = "NSWindow"; title = "Details"; ObjectID = "327"; */
+"327.title" = "Деталі";
+
+/* Class = "NSTextFieldCell"; title = "Client IP"; ObjectID = "376"; */
+"376.title" = "IP Клієнта";
+
+/* Class = "NSTextFieldCell"; title = "Server IP"; ObjectID = "378"; */
+"378.title" = "IP Сервера";
+
+/* Class = "NSTextFieldCell"; title = "127.0.0.1"; ObjectID = "382"; */
+"382.title" = "127.0.0.1";
+
+/* Class = "NSTextFieldCell"; title = "127.0.0.1"; ObjectID = "384"; */
+"384.title" = "127.0.0.1";
+
+/* Class = "NSTextFieldCell"; title = "Connected Time"; ObjectID = "386"; */
+"386.title" = "Тривалість з'єднання";
+
+/* Class = "NSTextFieldCell"; title = "Connected"; ObjectID = "389"; */
+"389.title" = "З'єднання встановленно";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "390"; */
+"390.title" = "Статус";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Traffic Graph"; ObjectID = "442"; */
+"442.ibShadowedToolTip" = "Показати графік трафіку";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Traffic"; ObjectID = "444"; */
+"444.ibShadowedToolTip" = "Показати трафік";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display Log"; ObjectID = "446"; */
+"446.ibShadowedToolTip" = "Показати лог";
+
+/* Class = "NSTextFieldCell"; title = "DNS Server/s:"; ObjectID = "469"; */
+"469.title" = "TCP / UDP Вихід:";
+
+/* Class = "NSTextFieldCell"; title = "Traffic In:"; ObjectID = "472"; */
+"472.title" = "TCP/UDP Вхід:";
+
+/* Class = "NSTextFieldCell"; title = "0 Bytes"; ObjectID = "473"; */
+"473.title" = "0 Байт";
+
+/* Class = "NSTextFieldCell"; title = "0 Bytes"; ObjectID = "474"; */
+"474.title" = "0 Байт";
+
+/* Class = "NSTextFieldCell"; title = "Traffic Out:"; ObjectID = "475"; */
+"475.title" = "TUN/TAP Вхід:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "477"; */
+"477.title" = "0 Байт";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "514"; */
+"514.title" = "Лунка";
+
+/* Class = "NSTextFieldCell"; title = "Data In"; ObjectID = "521"; */
+"521.title" = "Вхідні дані";
+
+/* Class = "NSTextFieldCell"; title = "Data Out"; ObjectID = "523"; */
+"523.title" = "Вихідні дані";
+
+/* Class = "NSTextFieldCell"; title = "0 seconds"; ObjectID = "538"; */
+"538.title" = "0 секунд(а)";
+
+/* Class = "NSTextFieldCell"; title = "100KB"; ObjectID = "579"; */
+"579.title" = "100КБ";
+
+/* Class = "NSTextFieldCell"; title = "0 KB"; ObjectID = "581"; */
+"581.title" = "0 КБ";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "EUn-Bt-JTD"; */
+"EUn-Bt-JTD.title" = "Лунка";
+
+/* Class = "NSButtonCell"; title = "Clear Log"; ObjectID = "J3Q-kH-4Oy"; */
+"J3Q-kH-4Oy.title" = "Очистити лог";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "L1E-Yi-rKf"; */
+"L1E-Yi-rKf.title" = "Інший Вид";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "QvM-1l-7Ne"; */
+"QvM-1l-7Ne.title" = "Шифрування:";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "WlI-18-ngV"; */
+"WlI-18-ngV.title" = "Лунка";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aGj-VA-Oud"; */
+"aGj-VA-Oud.title" = "Лунка";
+
+/* Class = "NSButtonCell"; title = "Save Log..."; ObjectID = "y0D-v2-bk9"; */
+"y0D-v2-bk9.title" = "Зберегти системний журнал ...";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "yej-J4-HB9"; */
+"yej-J4-HB9.title" = "Недоступно";

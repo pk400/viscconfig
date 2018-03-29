@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "To get started open the Viscosity menu from your menu bar. You should see the Viscosity menu near the top right on your screen, represented by the following icon:"; ObjectID = "392"; */
+"392.title" = "要开始，请点击菜单栏的 Viscosity 图标，您可以在屏幕右上角找到 Viscosity 图标，如下图所示：";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "427"; */
+"427.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Show this window when Viscosity opens"; ObjectID = "429"; */
+"429.title" = "在 Viscosity 开启时显示该窗口";
+
+/* Class = "NSTextFieldCell"; title = "We hope you enjoy using Viscosity!"; ObjectID = "431"; */
+"431.title" = "我们真诚希望您能充分享用 Viscosity 的各种功能！";
+
+/* Class = "NSTextFieldCell"; title = "Visit the support section online to view Viscosity's docs and get assistance."; ObjectID = "481"; */
+"481.title" = "请访问网站的在线支持部分，以浏览 Viscosity 的相关文件并获得援助。";
+
+/* Class = "NSTextFieldCell"; title = "Documentation"; ObjectID = "482"; */
+"482.title" = "帮助文件";
+
+/* Class = "NSTextFieldCell"; title = "Read the Getting Started guide to gain a quick overview of Viscosity."; ObjectID = "529"; */
+"529.title" = "阅读快速入门指南，以便熟悉 Viscosity。";
+
+/* Class = "NSTextFieldCell"; title = "Getting Started"; ObjectID = "530"; */
+"530.title" = "开始";
+
+/* Class = "NSWindow"; title = "Welcome to Viscosity"; ObjectID = "7"; */
+"7.title" = "欢迎使用 Viscosity";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Viscosity"; ObjectID = "a8L-e0-9nP"; */
+"a8L-e0-9nP.title" = "欢迎使用 Viscosity";

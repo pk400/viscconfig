@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "OpenVPN requires a username and password to continue."; ObjectID = "341"; */
+"341.title" = "OpenVPN: Введіть ім'я та пароль для продовження.";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "343"; */
+"343.title" = "Ім'я:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "348"; */
+"348.title" = "Пароль:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "351"; */
+"351.title" = "Ок";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "355"; */
+"355.title" = "Скасувати";
+
+/* Class = "NSButtonCell"; title = "Remember details in my Keychain"; ObjectID = "380"; */
+"380.title" = "Запам'ятати в Зв'язку Ключів";
+
+/* Class = "NSWindow"; title = "Viscosity"; ObjectID = "7"; */
+"7.title" = "Viscosity";

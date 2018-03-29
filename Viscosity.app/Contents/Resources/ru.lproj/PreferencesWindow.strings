@@ -1,0 +1,36 @@
+
+/* Class = "NSToolbarItem"; label = "Connections"; ObjectID = "275"; */
+"275.label" = "Соединения";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connections"; ObjectID = "275"; */
+"275.paletteLabel" = "Соединения";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "276"; */
+"276.label" = "Основное";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "276"; */
+"276.paletteLabel" = "Основное";
+
+/* Class = "NSToolbarItem"; label = "About"; ObjectID = "278"; */
+"278.label" = "О Программе";
+
+/* Class = "NSToolbarItem"; paletteLabel = "About"; ObjectID = "278"; */
+"278.paletteLabel" = "О Программе";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "337"; */
+"337.title" = "Box";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "343"; */
+"343.label" = "Дополнительно";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "343"; */
+"343.paletteLabel" = "Дополнительно";
+
+/* Class = "NSToolbarItem"; label = "Appearance"; ObjectID = "344"; */
+"344.label" = "Внешний вид";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Appearance"; ObjectID = "344"; */
+"344.paletteLabel" = "Внешний вид";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "7"; */
+"7.title" = "Настройки";

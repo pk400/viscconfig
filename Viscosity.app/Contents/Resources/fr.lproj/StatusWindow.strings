@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Viscosity is establishing a VPN connection with the remote server \"%s\". Please wait."; ObjectID = "2vh-XF-MFO"; */
+"2vh-XF-MFO.title" = "Viscosity is establishing a VPN connection with the remote server \"%s\". Please wait.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "355"; */
+"355.title" = "Cancel";
+
+/* Class = "NSWindow"; title = "Viscosity"; ObjectID = "7"; */
+"7.title" = "Viscosity";
+
+/* Class = "NSTextFieldCell"; title = "Connecting to %s"; ObjectID = "DD4-BA-YT5"; */
+"DD4-BA-YT5.title" = "Connecting to %s";
+
+/* Class = "NSTextFieldCell"; title = "Status: %s..."; ObjectID = "J0X-Ai-gge"; */
+"J0X-Ai-gge.title" = "Status: %s...";
