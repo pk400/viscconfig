@@ -17,7 +17,7 @@ kill_p() {
 	for p in $@
 	do
 		ISRUNNING=$(echo "$LISTP" | grep -w $p | wc -l)
-		if [[ $ISRUNNING -gt 0 ]]; then killall $p || echo "Killing $p ..."; fi
+		[ $ISRUNNING -gt 0 ] && killall $p && echo "Killing $p ..."
 	done
 }
 
@@ -31,7 +31,7 @@ wipe_viscosity() {
 	kill_p Viscosity com.sparklabs.ViscosityHelper
 
 	defaults delete com.viscosityvpn.Viscosity 2> /dev/null \
-	|| echo "Viscosity reset defaults successful"
+	&& echo "Viscosity reset defaults successful"
 	
 	launchctl unload ${ALL_FILES[1]} 2> /dev/null
 	
